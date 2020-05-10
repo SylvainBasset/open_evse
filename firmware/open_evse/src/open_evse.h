@@ -59,7 +59,7 @@
 //  to enable/disable charging function
 // if AUTH_LOCK_REG/IDX are also defined (see below), then a hardware pin is
 //  used to control access, rather than RAPI
-//#define AUTH_LOCK
+#define AUTH_LOCK
 
 // serial remote api
 #define RAPI
